@@ -1,10 +1,10 @@
 # Agent Briefing: antigravity-storage-manager
 
 ## 1. Repository Overview & Purpose
-- **Repository Name**: `antigravity-storage-manager`
+- **Repository**: `webdev0814/antigravity-storage-manager`
 - **Visibility**: `Public`
 - **Default Branch**: `master`
-- **Last Updated / Pushed**: 2026-09-03
+- **Last Updated / Pushed**: 2026-09-04
 - **Description**: Unified AI Gateway with visual dashboard, secure Google Drive sync, Telegram notifications, multi-account profiles, real-time quota monitoring, Proxy support, MCP server, and advanced backup tools.
 - **Context from README**: <p align="center"> <img src="https://raw.githubusercontent.com/unchase/antigravity-storage-manager/master/banner.png" alt="Antigravity Storage Manager"> </p> <p align="center">
 
@@ -14,7 +14,7 @@
 ## 2. Tech Stack & Architecture
 - **Primary Language / Ecosystem**: TypeScript, JavaScript, Node.js
 - **Key Directories**: `.agent/`, `.github/`, `images/`, `l10n/`, `screenshots/`, `src/`
-- **Notable Top-Level Files**: `.gitignore`, `.vscodeignore`, `CHANGELOG.md`, `CONTRIBUTING.md`, `LICENSE`, `README.md`, `SYNC_SETUP.md`, `banner.png`, `check_l10n_bundles.js`, `check_nls_keys.js`, `esbuild.js`, `eslint.config.mjs`
+- **Notable Top-Level Files**: `.gitignore`, `.vscodeignore`, `AGENTS.md`, `CHANGELOG.md`, `CLAUDE.md`, `CONTRIBUTING.md`, `GEMINI.md`, `LICENSE`, `README.md`, `SYNC_SETUP.md`, `banner.png`, `check_l10n_bundles.js`
 
 ---
 
@@ -38,6 +38,9 @@ npm test
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[a69845e]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[941c5a7]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[a71b5c1]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[d863465]` (2026-07-01) feat: SQLite support, installation ID protection, markdown export fixes, and localization updates (v0.14.5)
 - `[d30a5ca]` (2026-07-01) feat: restore rich quota tooltip, consolidate Gemini models, and bump to v0.14.4
 - `[b991678]` (2026-04-05) fix(ci): replace tail|head with sed to avoid Broken pipe in changelog extraction
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[dc81d5f]` (2026-04-05) chore: pre-issues-fix state — sync, l10n, localStorage updates
 - `[cc88e45]` (2026-03-08) feat: grouped quota headers, per-profile usage history, UI improvements (v0.14.2)
 - `[154e15a]` (2026-03-08) fix: MCP Servers panel fallback to mcp_config.json when API returns empty
-- `[4e68df7]` (2026-03-06) fix(proxy): filter MCP commands by content, supporting custom commands
-- `[3483e6a]` (2026-03-06) docs: update README for v0.14.1 features
-- `[2739712]` (2026-03-06) fix(proxy): Test Quota account selection and infinite loading
 
 ---
 
