@@ -38,6 +38,9 @@ npm test
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[a134e34]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[7e39350]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
+- `[a77643d]` (2026-09-08) docs: update agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[363eb2b]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[c6a8557]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[f23681b]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
@@ -45,9 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[941c5a7]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[a71b5c1]` (2026-09-04) docs: add comprehensive agent briefing (AGENTS.md, GEMINI.md, CLAUDE.md)
 - `[d863465]` (2026-07-01) feat: SQLite support, installation ID protection, markdown export fixes, and localization updates (v0.14.5)
-- `[d30a5ca]` (2026-07-01) feat: restore rich quota tooltip, consolidate Gemini models, and bump to v0.14.4
-- `[b991678]` (2026-04-05) fix(ci): replace tail|head with sed to avoid Broken pipe in changelog extraction
-- `[694eff7]` (2026-04-05) feat: resolve issues #6, #15, #16, #17 — auth UX, backup restore, workspace re-link, markdown export
 
 ---
 
