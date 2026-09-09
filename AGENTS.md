@@ -38,6 +38,8 @@ npm test
 
 ## 4. Recent Commit Activity (Where We Left Off)
 The most recent commits show the latest development trajectory:
+- `[f6dc2fb]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
+- `[94325b3]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[b171d2d]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[4f1a1da]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[0fe95aa]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
@@ -46,8 +48,6 @@ The most recent commits show the latest development trajectory:
 - `[f7ae79f]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[1ab912c]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 - `[5c25ec2]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[1e8951c]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
-- `[e70ab40]` (2026-09-09) docs: update agent briefing with multi-computer handoff protocol
 
 ---
 
